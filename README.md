@@ -34,3 +34,15 @@ Using a real-world dataset of Bitcoin OTC trades, we constructed a user-to-user 
 - Example of user rating network.
 - blue = Old ratings (up to 2014) red = Relevant ratings (2014–2016),
 - ◯ Positive Ratings  ▲ Negative Ratings
+
+---
+## 👩‍💻 Contributors
+Linoy Nisim Pur  
+Noa Shem Tov
+
+
+---
+
+## 📄 License
+
+Academic coursework at SCE College of Engineering.
